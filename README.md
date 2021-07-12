@@ -3,6 +3,7 @@ CIFAR-10  is an established computer-vision dataset used for object recognition.
 
 
 # The classes are:
+
 Label and Description :
 
 0 airplane
@@ -28,4 +29,4 @@ Label and Description :
 
 # Result
 
-We have predicted the Image as Ship since the y_test prediction indicates as 8 (Ship) in CIFAR Dataset.
+We have predicted the Image as Ship since the y_test prediction indicates as 8 (Ship) in CIFAR Dataset using Tensorflow
